@@ -1,4 +1,4 @@
 Administraci-n-de-Proyectos
 ===========================
 
-Entregas Proyecto
+Entrega Proyecto
